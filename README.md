@@ -7,3 +7,6 @@
 - [DynamicAnnotationDB](https://github.com/seung-lab/dynamicannotationdb/)
 - [MaterializationEngine](https://github.com/seung-lab/materializationengine/)
 - [AnalysisDataLink](https://github.com/seung-lab/analysisdatalink/)
+
+
+[system_overview]: https://github.com/seung-lab/AnnotationPipelineOverview/blob/master/system_overview.png "System Overview"
