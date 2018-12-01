@@ -2,12 +2,19 @@
 
 - [Neuroglancer](https://github.com/seung-lab/neuroglancer/)
 - [NeuroglancerAnnotationUI](https://github.com/seung-lab/NeuroglancerAnnotationUI)
+- [NeuroglancerJSONServer](https://github.com/seung-lab/NeuroglancerJsonServer)
 - [PyChunkedGraph](https://github.com/seung-lab/pychunkedgraph/)
 - [EMAnnotationSchemas](https://github.com/seung-lab/emannotationschemas/)
 - [AnnotationEngine](https://github.com/seung-lab/annotationengine/)
+- [AnnotationFrameworkClient](https://github.com/seung-lab/AnnotationFrameworkClient)
 - [DynamicAnnotationDB](https://github.com/seung-lab/dynamicannotationdb/)
 - [MaterializationEngine](https://github.com/seung-lab/materializationengine/)
 - [AnalysisDataLink](https://github.com/seung-lab/analysisdatalink/)
+- [AnnotationFrameworkInfoService](https://github.com/seung-lab/AnnotationFrameworkInfoService)
+- [Deployment](https://github.com/seung-lab/AnnotationFrameworkDeployment)
+- [Authentication](https://github.com/seung-lab/neuroglancer-auth)
+- [MeshParty](https://github.com/sdorkenw/MeshParty)
+- [MultiWrapper](https://github.com/sdorkenw/MultiWrapper)
 
 ![alt text][system_overview]
 
