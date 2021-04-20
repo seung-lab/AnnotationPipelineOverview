@@ -17,7 +17,6 @@
 - [MeshParty](https://github.com/sdorkenw/MeshParty)
 - [MultiWrapper](https://github.com/sdorkenw/MultiWrapper)
 - [PCG_skel](https://github.com/AllenInstitute/pcg_skel)
-- 
 
 ![alt text][system_overview]
 
