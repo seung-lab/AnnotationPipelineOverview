@@ -8,8 +8,8 @@ Services
 - [MaterializationEngine](https://github.com/seung-lab/materializationengine/)
 - [Level2Cache](https://github.com/seung-lab/PCGL2cache)
 - [AnnotationFrameworkInfoService](https://github.com/seung-lab/AnnotationFrameworkInfoService)
-
 - [Authentication](https://github.com/seung-lab/neuroglancer-auth)
+  
 Deployment
 [Deployment](https://github.com/seung-lab/CAVEDeployment)
 [Deployment Instructions] (https://docs.google.com/document/d/1C110QZEWdE4NnAIR7HLStKhff3d4Ha60VJ_W09akj3c/edit)
