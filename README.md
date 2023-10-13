@@ -1,24 +1,35 @@
-# AnnotationPipelineOverview
+# CAVE Related Repo Overview
 
-- [Neuroglancer](https://github.com/seung-lab/neuroglancer/)
-- [NeuroglancerAnnotationUI](https://github.com/seung-lab/NeuroglancerAnnotationUI)
+Services
 - [NeuroglancerJSONServer](https://github.com/seung-lab/NeuroglancerJsonServer)
 - [PyChunkedGraph](https://github.com/seung-lab/pychunkedgraph/)
 - [EMAnnotationSchemas](https://github.com/seung-lab/emannotationschemas/)
 - [AnnotationEngine](https://github.com/seung-lab/annotationengine/)
-- [AnnotationFrameworkClient](https://github.com/seung-lab/AnnotationFrameworkClient)
-- [DynamicAnnotationDB](https://github.com/seung-lab/dynamicannotationdb/)
 - [MaterializationEngine](https://github.com/seung-lab/materializationengine/)
-- [AnalysisDataLink](https://github.com/seung-lab/analysisdatalink/)
+- [Level2Cache](https://github.com/seung-lab/PCGL2cache)
 - [AnnotationFrameworkInfoService](https://github.com/seung-lab/AnnotationFrameworkInfoService)
-- [Deployment](https://github.com/seung-lab/AnnotationFrameworkDeployment)
+- [Deployment](https://github.com/seung-lab/CAVEDeployment)
 - [Authentication](https://github.com/seung-lab/neuroglancer-auth)
-- [Authentication Client](https://github.com/seung-lab/middle_auth_client)
-- [MeshParty](https://github.com/sdorkenw/MeshParty)
-- [MultiWrapper](https://github.com/sdorkenw/MultiWrapper)
-- [PCG_skel](https://github.com/AllenInstitute/pcg_skel)
 
-![alt text][system_overview]
+Service Libraries
+- [DynamicAnnotationDB](https://github.com/seung-lab/dynamicannotationdb/) For MaterializationEngine and AnnotationEngine
+- [Authentication Client](https://github.com/seung-lab/middle_auth_client) For all services
+
+Client Libraries
+- [CAVEClient](https://github.com/seung-lab/CAVEClient) Service API access
+- [MeshParty](https://github.com/sdorkenw/MeshParty) Mesh download and processing
+- [PCG_skel](https://github.com/AllenInstitute/pcg_skel) skeletonization
+- [NeuroglancerAnnotationUI](https://github.com/seung-lab/NeuroglancerAnnotationUI) pandas>neuroglancer pipeline
+
+Viewer/Front End
+- [Neuroglancer](https://github.com/seung-lab/neuroglancer/)
+- [dash-on-flask](https://github.com/fcollman/dash-on-flask/) Generic dash serving flask service
+- [flywire-dash-apps](https://github.com/seung-lab/FlyWireDashApps.git) Dash apps for flywire
+- [connectivity-viewer](https://github.com/ceesem/dash-connectivity-viewer) Dash apps for generic data
+
+Misc Libraries
+- [MultiWrapper](https://github.com/sdorkenw/MultiWrapper)
+
 
 [system_overview]: https://github.com/seung-lab/AnnotationPipelineOverview/blob/master/systemoverview.png "System Overview"
 
