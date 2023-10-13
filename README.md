@@ -12,7 +12,7 @@ Services
   
 Deployment
 - [Deployment](https://github.com/seung-lab/CAVEDeployment)
-- [Deployment Instructions] (https://docs.google.com/document/d/1C110QZEWdE4NnAIR7HLStKhff3d4Ha60VJ_W09akj3c/edit)
+- [Deployment Instructions](https://docs.google.com/document/d/1C110QZEWdE4NnAIR7HLStKhff3d4Ha60VJ_W09akj3c/edit)
 
 Service Libraries
 - [DynamicAnnotationDB](https://github.com/seung-lab/dynamicannotationdb/) For MaterializationEngine and AnnotationEngine
